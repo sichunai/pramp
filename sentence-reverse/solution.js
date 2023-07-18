@@ -56,7 +56,6 @@ function reverse(arr, start, end) {
 console.log(reverseWords([" ", " "]));
 console.log(reverseWords(["a", " ", " ", "b"]));
 console.log(reverseWords(["h", "e", "l", "l", "o", " ", "h", "i"]));
-// ["i", "h", " ", "o", "l", "l", "e", "h"]
 console.log(
   reverseWords([
     "p",
